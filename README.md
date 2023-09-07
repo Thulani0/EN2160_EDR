@@ -1,8 +1,8 @@
 # EN2160_EDR
 # Motion and Dark Sensor Light Switch with Remote Control
 
-<p><img src="https://github.com/Thulani0/EN2160_EDR/assets/129428203/d71b0488-7d1e-407e-8ea5-f431b09fe119.png"  width="300" height="200"></p>
-  
+<p><img src="https://github.com/Thulani0/EN2160_EDR/assets/129428203/18e09954-d06a-4768-a3b8-299961bf4ef2.png"  width="300" height="200"></p>
+
 ## Overview
 
 The Automatic Room Light Control System is a semester 4 individual project aimed at improving energy efficiency and convenience by enhancing an existing motion sensor light with remote control capabilities. This innovative solution combines motion detection and darkness sensing to automatically control room lighting, reducing unnecessary energy consumption.
@@ -38,20 +38,20 @@ My PCB design consists of three main parts:
 2. **Power Circuit**: Manages the power supply for the system.
 3. **Output Circuit**: Controls the lighting output based on user or automatic inputs.
 
-<p><img src="https://github.com/Thulani0/EN2160_EDR/assets/129428203/e38adcfc-fbdf-4161-a7b6-df2f2619a2f0.png"  width="500" height="300"></p>
+<p><img src="https://github.com/Thulani0/EN2160_EDR/assets/129428203/ad94bcd3-a6ae-49c3-9b57-ecc4bd7d21d5.png"  width="500" height="300"></p>
 
-<p><img src="https://github.com/Thulani0/EN2160_EDR/assets/129428203/7aae484b-4132-45c8-98cc-46b96de42819.png"  width="600" height="400"></p>
+<p><img src="https://github.com/Thulani0/EN2160_EDR/assets/129428203/91b21a0b-7591-414c-9815-bd43886b43ca.png"  width="600" height="400"></p>
 
 ### PCB Layout
 
-<p><img src="https://github.com/Thulani0/EN2160_EDR/assets/129428203/40dc7dfc-97b0-497c-9517-46b7db26f24a.png"  width="800" height="400"></p>
+<p><img src="https://github.com/Thulani0/EN2160_EDR/assets/129428203/d05bafd7-3da5-4c27-8fca-2c7d47a2e680.png"  width="800" height="400"></p>
 
 
 ## Enclosure Design
 
 Enclosures are modelled from CAD software Solidworks 2020. The lid and box are the parts in the enclosure. There are relevant holes to assemble sensors to the enclosure and mounting bosses to mount the PCB.
 
-<p><img src="https://github.com/Thulani0/EN2160_EDR/assets/129428203/0e20932c-7f95-4f71-9bf8-01bbcd6ac9a2.png"  width="450" height="600"></p>
+<p><img src="https://github.com/Thulani0/EN2160_EDR/assets/129428203/4a6f7ca3-f19d-47b0-8c55-e1ac1c102fb6.png"  width="450" height="600"></p>
 
 ## Future Improvements
 
